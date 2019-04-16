@@ -15,7 +15,7 @@ Note:
 4. Please enter following numbers (P) and program will generate corresponding smallest palindrome larger than P.
 
     | T | Input                 | Output                                  |
-    | - | :-------------------: | --------------------------------------: |
+    | - | :-------------------: | :-------------------------------------: |
     | 1 | 8                     | 9                                       |
     | 2 | 2345                  | 2442                                    |
     | 3 | 57775                 | 57875                                   |
