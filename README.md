@@ -5,7 +5,7 @@ The functions tries to keep maximum MSB bits same in between the input value and
 
 
 Note: 
-- The function only expects positive integers and returns exception otherwise.
+- The function expects positive integers and returns exception otherwise.
 - As largest possible long type palindrome number is 9223372036302733229L, any input value equal or greater than it will result in an exception.
 
 ## How to execute:
